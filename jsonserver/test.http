@@ -1,0 +1,33 @@
+
+
+# get ra toàn bộ 
+GET http://localhost:3000/students
+
+####
+
+# thêm mới 
+POST http://localhost:3000/students
+Content-Type: application/json
+
+{
+    "fullName": "Nguyen Van Trung",
+    "class": "FS01",
+    "score": "A"
+}
+
+###
+
+# sửa 
+PATCH http://localhost:3000/students/4
+Content-Type: application/json
+
+{
+    "fullName": "Nguyen Bá Trung ",
+    "class": "FS01",
+    "score": "A"
+}
+
+###
+
+# delete 
+DELETE http://localhost:3000/students/10
