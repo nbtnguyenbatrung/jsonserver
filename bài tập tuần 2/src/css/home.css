@@ -1,0 +1,22 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: antiquewhite;
+}
+
+.nav .nav__link{
+    display: flex;
+    list-style-type: none;
+}
+
+.nav .nav__link li {
+    margin-right: 2rem;
+}
+
+a:hover{
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+}
