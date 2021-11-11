@@ -1,5 +1,5 @@
 import React from "react";
 
- const Homepage = () => <p> Home Page </p>
+ const Homepage = () => <p style={{textAlign: 'center'}}> Home Page </p>
  export default Homepage;
 

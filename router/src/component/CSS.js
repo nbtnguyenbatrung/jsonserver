@@ -1,4 +1,4 @@
 import React from "react";
 
-const CSS = () => <p> CSS Books </p>
+const CSS = () => <p style={{textAlign: 'center'}} > CSS Books </p>
 export default CSS;

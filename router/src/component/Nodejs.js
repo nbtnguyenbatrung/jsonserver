@@ -1,5 +1,5 @@
 import React from "react";
 
-const Nodejs = () => <p> Nodejs Books </p>
+const Nodejs = () => <p style={{textAlign: 'center'}}> Nodejs Books </p>
 
 export default Nodejs;
