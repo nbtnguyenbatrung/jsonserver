@@ -31,282 +31,322 @@
     {
       "id": 1,
       "Name": "Beginning CSS web development",
-      "image": "CSS1",
+      "image": "CSS1.jpg",
       "author": "Simon Collison",
-      "cetogory" : "CSS"
+      "cetogory" : "CSS",
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 2,
       "Name": "CSS for beginner",
-      "image": "CSS2",
+      "image": "CSS2.jpg",
       "author": "Dr.Andy Williams",
-      "cetogory" : "CSS"
+      "cetogory" : "CSS" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 3,
       "Name": "Pro CSS Techniques",
-      "image": "CSS3",
+      "image": "CSS3.jpg",
       "author": "Jeff Croft , Ian Lloyd and Dan Rubin",
-      "cetogory" : "CSS"
+      "cetogory" : "CSS",
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 4 ,
       "Name": "CSS the missing manual ",
-      "image": "CSS4",
+      "image": "CSS4.png",
       "author": "David Sawyer McFarland",
-      "cetogory" : "CSS"
+      "cetogory" : "CSS" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 5,
       "Name": "Jump Start CSS ",
-      "image": "CSS5",
+      "image": "CSS5.jpg",
       "author": "Louis Lazaris",
-      "cetogory" : "CSS"
+      "cetogory" : "CSS" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 6,
       "Name": "New CSS SYLLAABUS 2022",
-      "image": "CSS6",
+      "image": "CSS6.jpg",
       "author": "",
-      "cetogory" : "CSS"
+      "cetogory" : "CSS" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 7,
       "Name": "Pro CSS and HTML Design Patterns ",
-      "image": "CSS7",
+      "image": "CSS7.jpg",
       "author": "Michael Bowers ",
-      "cetogory" : "CSS"
+      "cetogory" : "CSS" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 8,
       "Name": " CSS Animations ",
-      "image": "CSS8",
+      "image": "CSS8.png",
       "author": "Val Head",
-      "cetogory" : "CSS"
+      "cetogory" : "CSS" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 25,
       "Name": "REACT Learning React JavaScript Library ",
-      "image": "RS1",
+      "image": "RS1.jpg",
       "author": "LIONEL LOPEZ",
-      "cetogory" : "Reacjs"
+      "cetogory" : "Reactjs" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 26,
       "Name": "Learn React Hooks",
-      "image": "RS2",
+      "image": "RS2.jpg",
       "author": "Daniel Bugl",
-      "cetogory" : "Reacjs"
+      "cetogory" : "Reactjs" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 27,
       "Name": "ReactJS Become a professional in web app development",
-      "image": "RS3",
+      "image": "RS3.jpg",
       "author": "Todd Abel",
-      "cetogory" : "Reacjs"
+      "cetogory" : "Reactjs" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 28 ,
       "Name": " the Road to React ",
-      "image": "RS4",
+      "image": "RS4.png",
       "author": "robin wieruch",
-      "cetogory" : "Reacjs"
+      "cetogory" : "Reactjs" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 29,
       "Name": "Learning REACT  ",
-      "image": "RS5",
+      "image": "RS5.jpg",
       "author": "KIRUPA CHINNATHAMBI ",
-      "cetogory" : "Reacjs"
+      "cetogory" : "Reactjs" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 30,
       "Name": "Sviluppare applicazioni web con REACT.js",
-      "image": "RS6",
+      "image": "RS6.jpg",
       "author": "Charies F. Kettering",
-      "cetogory" : "Reacjs"
+      "cetogory" : "Reactjs" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 31,
       "Name": " React CookBook  ",
-      "image": "RS7",
+      "image": "RS7.jpg",
       "author": " Carlos Santana Roldan ",
-      "cetogory" : "Reacjs"
+      "cetogory" : "Reactjs" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 32,
       "Name": " Learning React Native ",
-      "image": "RS8",
+      "image": "RS8.jpg",
       "author": "Bonnie Eisenman",
-      "cetogory" : "Reacjs"
+      "cetogory" : "Reactjs" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 33,
       "Name": "Mastering Node.js ",
-      "image": "NS1",
+      "image": "NS1.jpg",
       "author": "Sandro Pasquali",
-      "cetogory" : "Nodejs"
+      "cetogory" : "Nodejs" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 34,
       "Name": "The Node Craftsman Book ",
-      "image": "NS2",
+      "image": "NS2.png",
       "author": "",
-      "cetogory" : "Nodejs"
+      "cetogory" : "Nodejs" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 35,
       "Name": "Node.js Design Pattern ",
-      "image": "NS3",
+      "image": "NS3.jpg",
       "author": "Mario Casciaro",
-      "cetogory" : "Nodejs"
+      "cetogory" : "Nodejs" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 36 ,
       "Name": "Beginning Node.js Express & MongoDB Development ",
-      "image": "NS4",
+      "image": "NS4.jpg",
       "author": "Greg Lim ",
-      "cetogory" : "Nodejs"
+      "cetogory" : "Nodejs" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 37,
       "Name": "Learning Path Node.js Complete Reference Guide ",
-      "image": "NS5",
+      "image": "NS5.jpg",
       "author": "Valentin Bojinov",
-      "cetogory" : "Nodejs"
+      "cetogory" : "Nodejs" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 38,
       "Name": "Node CookBook Fourth Edition ",
-      "image": "Ns6",
+      "image": "NS6.jpg",
       "author": "Bethany Griggs",
-      "cetogory" : "Nodejs"
+      "cetogory" : "Nodejs" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 39,
       "Name": "Advenced Node.js Development ",
-      "image": "NS7",
+      "image": "NS7.jpg",
       "author": "Andrew Mead  ",
-      "cetogory" : "Nodejs"
+      "cetogory" : "Nodejs" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 40,
       "Name": " Node.js Tutorial  ",
-      "image": "NS8",
+      "image": "NS8.png",
       "author": "A.j.Garcia ",
-      "cetogory" : "Nodejs"
+      "cetogory" : "Nodejs" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 9,
       "Name": "Beginner Guide to HTML to Master Your web ",
-      "image": "HTML1",
+      "image": "HTML1.jpg",
       "author": "Josh steven",
-      "cetogory" : "HTML"
+      "cetogory" : "HTML" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 10,
       "Name": "Introducing HTML 5",
-      "image": "HTML4",
+      "image": "HTML4.jpg",
       "author": "Bruce Lawson",
-      "cetogory" : "HTML"
+      "cetogory" : "HTML" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 11,
       "Name": "HTML Black Book ",
-      "image": "HTML3",
+      "image": "HTML3.jpg",
       "author": "Steven",
-      "cetogory" : "HTML"
+      "cetogory" : "HTML" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 12 ,
       "Name": "Beggining HTML5 and CSS3 ",
-      "image": "HTML5",
+      "image": "HTML5.jpg",
       "author": "Christopher Murphy",
-      "cetogory" : "HTML"
+      "cetogory" : "HTML" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 13,
       "Name": "HTML5 the missing manual ",
-      "image": "HTML6",
+      "image": "HTML6.jpg",
       "author": "Matthew MacDonald ",
-      "cetogory" : "HTML"
+      "cetogory" : "HTML" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 14,
       "Name": "HTML , XHTML and CSS",
-      "image": "HTML7",
+      "image": "HTML7.jpg",
       "author": "Steven M. Schafer",
-      "cetogory" : "HTML"
+      "cetogory" : "HTML" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 15,
       "Name": "HTML 5 Foundations ",
-      "image": "HTML8",
+      "image": "HTML8.png",
       "author": "Matt West ",
-      "cetogory" : "HTML"
+      "cetogory" : "HTML" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 16,
       "Name": " HTML & CSS Beginer to Advance complete tutorial book ",
-      "image": "HTML9",
+      "image": "HTML9.jpg",
       "author": "Kailash chandra Upadhyay",
-      "cetogory" : "HTML"
+      "cetogory" : "HTML" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 17,
       "Name": "JAVASCRIPT & JQUERY",
-      "image": "JS1",
+      "image": "JS1.jpg",
       "author": "JON DUCKETT",
-      "cetogory" : "JavaScript"
+      "cetogory" : "JavaScript" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 18,
       "Name": "JavaScript : the Good Part ",
-      "image": "JS2",
+      "image": "JS2.jpg",
       "author": "O. REILLY ",
-      "cetogory" : "JavaScript"
+      "cetogory" : "JavaScript" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 19,
       "Name": "JavaScript the Definitive Guide",
-      "image": "JS3",
+      "image": "JS3.jpg",
       "author": "David Flamagan ",
-      "cetogory" : "JavaScript"
+      "cetogory" : "JavaScript" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 20 ,
       "Name": " Learning JavaScript ",
-      "image": "JS4",
+      "image": "JS4.jpg",
       "author": "Ethan Brown",
-      "cetogory" : "JavaScript"
+      "cetogory" : "JavaScript" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 21,
       "Name": "JavaScript & Jquery the missing manual ",
-      "image": "JS5",
+      "image": "JS5.jpg",
       "author": "David Sawyer McFarland",
-      "cetogory" : "JavaScript"
+      "cetogory" : "JavaScript" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 22,
       "Name": "the little JAVASCRIPT BOOK ",
-      "image": "JS6",
+      "image": "JS6.png",
       "author": "",
-      "cetogory" : "JavaScript"
+      "cetogory" : "JavaScript" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 23,
       "Name": "Clean Code In JavaScript",
-      "image": "JS7",
+      "image": "JS7.png",
       "author": "James Padolsey ",
-      "cetogory" : "JavaScript"
+      "cetogory" : "JavaScript" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     },
     {
       "id": 24,
       "Name": " JAVASCRIPT Programming basic ",
-      "image": "JS8",
+      "image": "JS8.jpg",
       "author": " NATHAN CLARK ",
-      "cetogory" : "JavaScript"
+      "cetogory" : "JavaScript" ,
+      "content" : "Cuốn sách lập trình web này không đặt nặng lý thuyết mà thiên về thực hành. "
     }
     
   ]
