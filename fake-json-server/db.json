@@ -27,39 +27,288 @@
       "id": 4
     }
   ],
-  "book": [
+  "books": [
     {
       "id": 1,
       "Name": "Beginning CSS web development",
       "image": "CSS1",
       "author": "Simon Collison",
-      "img" : "" ,
       "cetogory" : "CSS"
     },
     {
       "id": 2,
-      "Name": "Beginning CSS web development",
-      "image": "CSS1",
-      "author": "Simon Collison",
-      "img" : "" ,
+      "Name": "CSS for beginner",
+      "image": "CSS2",
+      "author": "Dr.Andy Williams",
       "cetogory" : "CSS"
     },
     {
       "id": 3,
-      "Name": "Beginning CSS web development",
-      "image": "CSS1",
-      "author": "Simon Collison",
-      "img" : "" ,
+      "Name": "Pro CSS Techniques",
+      "image": "CSS3",
+      "author": "Jeff Croft , Ian Lloyd and Dan Rubin",
       "cetogory" : "CSS"
     },
     {
       "id": 4 ,
-      "Name": "Beginning CSS web development",
-      "image": "CSS1",
-      "author": "Simon Collison",
-      "img" : "" ,
+      "Name": "CSS the missing manual ",
+      "image": "CSS4",
+      "author": "David Sawyer McFarland",
       "cetogory" : "CSS"
+    },
+    {
+      "id": 5,
+      "Name": "Jump Start CSS ",
+      "image": "CSS5",
+      "author": "Louis Lazaris",
+      "cetogory" : "CSS"
+    },
+    {
+      "id": 6,
+      "Name": "New CSS SYLLAABUS 2022",
+      "image": "CSS6",
+      "author": "",
+      "cetogory" : "CSS"
+    },
+    {
+      "id": 7,
+      "Name": "Pro CSS and HTML Design Patterns ",
+      "image": "CSS7",
+      "author": "Michael Bowers ",
+      "cetogory" : "CSS"
+    },
+    {
+      "id": 8,
+      "Name": " CSS Animations ",
+      "image": "CSS8",
+      "author": "Val Head",
+      "cetogory" : "CSS"
+    },
+    {
+      "id": 25,
+      "Name": "REACT Learning React JavaScript Library ",
+      "image": "RS1",
+      "author": "LIONEL LOPEZ",
+      "cetogory" : "Reacjs"
+    },
+    {
+      "id": 26,
+      "Name": "Learn React Hooks",
+      "image": "RS2",
+      "author": "Daniel Bugl",
+      "cetogory" : "Reacjs"
+    },
+    {
+      "id": 27,
+      "Name": "ReactJS Become a professional in web app development",
+      "image": "RS3",
+      "author": "Todd Abel",
+      "cetogory" : "Reacjs"
+    },
+    {
+      "id": 28 ,
+      "Name": " the Road to React ",
+      "image": "RS4",
+      "author": "robin wieruch",
+      "cetogory" : "Reacjs"
+    },
+    {
+      "id": 29,
+      "Name": "Learning REACT  ",
+      "image": "RS5",
+      "author": "KIRUPA CHINNATHAMBI ",
+      "cetogory" : "Reacjs"
+    },
+    {
+      "id": 30,
+      "Name": "Sviluppare applicazioni web con REACT.js",
+      "image": "RS6",
+      "author": "Charies F. Kettering",
+      "cetogory" : "Reacjs"
+    },
+    {
+      "id": 31,
+      "Name": " React CookBook  ",
+      "image": "RS7",
+      "author": " Carlos Santana Roldan ",
+      "cetogory" : "Reacjs"
+    },
+    {
+      "id": 32,
+      "Name": " Learning React Native ",
+      "image": "RS8",
+      "author": "Bonnie Eisenman",
+      "cetogory" : "Reacjs"
+    },
+    {
+      "id": 33,
+      "Name": "Mastering Node.js ",
+      "image": "NS1",
+      "author": "Sandro Pasquali",
+      "cetogory" : "Nodejs"
+    },
+    {
+      "id": 34,
+      "Name": "The Node Craftsman Book ",
+      "image": "NS2",
+      "author": "",
+      "cetogory" : "Nodejs"
+    },
+    {
+      "id": 35,
+      "Name": "Node.js Design Pattern ",
+      "image": "NS3",
+      "author": "Mario Casciaro",
+      "cetogory" : "Nodejs"
+    },
+    {
+      "id": 36 ,
+      "Name": "Beginning Node.js Express & MongoDB Development ",
+      "image": "NS4",
+      "author": "Greg Lim ",
+      "cetogory" : "Nodejs"
+    },
+    {
+      "id": 37,
+      "Name": "Learning Path Node.js Complete Reference Guide ",
+      "image": "NS5",
+      "author": "Valentin Bojinov",
+      "cetogory" : "Nodejs"
+    },
+    {
+      "id": 38,
+      "Name": "Node CookBook Fourth Edition ",
+      "image": "Ns6",
+      "author": "Bethany Griggs",
+      "cetogory" : "Nodejs"
+    },
+    {
+      "id": 39,
+      "Name": "Advenced Node.js Development ",
+      "image": "NS7",
+      "author": "Andrew Mead  ",
+      "cetogory" : "Nodejs"
+    },
+    {
+      "id": 40,
+      "Name": " Node.js Tutorial  ",
+      "image": "NS8",
+      "author": "A.j.Garcia ",
+      "cetogory" : "Nodejs"
+    },
+    {
+      "id": 9,
+      "Name": "Beginner Guide to HTML to Master Your web ",
+      "image": "HTML1",
+      "author": "Josh steven",
+      "cetogory" : "HTML"
+    },
+    {
+      "id": 10,
+      "Name": "Introducing HTML 5",
+      "image": "HTML4",
+      "author": "Bruce Lawson",
+      "cetogory" : "HTML"
+    },
+    {
+      "id": 11,
+      "Name": "HTML Black Book ",
+      "image": "HTML3",
+      "author": "Steven",
+      "cetogory" : "HTML"
+    },
+    {
+      "id": 12 ,
+      "Name": "Beggining HTML5 and CSS3 ",
+      "image": "HTML5",
+      "author": "Christopher Murphy",
+      "cetogory" : "HTML"
+    },
+    {
+      "id": 13,
+      "Name": "HTML5 the missing manual ",
+      "image": "HTML6",
+      "author": "Matthew MacDonald ",
+      "cetogory" : "HTML"
+    },
+    {
+      "id": 14,
+      "Name": "HTML , XHTML and CSS",
+      "image": "HTML7",
+      "author": "Steven M. Schafer",
+      "cetogory" : "HTML"
+    },
+    {
+      "id": 15,
+      "Name": "HTML 5 Foundations ",
+      "image": "HTML8",
+      "author": "Matt West ",
+      "cetogory" : "HTML"
+    },
+    {
+      "id": 16,
+      "Name": " HTML & CSS Beginer to Advance complete tutorial book ",
+      "image": "HTML9",
+      "author": "Kailash chandra Upadhyay",
+      "cetogory" : "HTML"
+    },
+    {
+      "id": 17,
+      "Name": "JAVASCRIPT & JQUERY",
+      "image": "JS1",
+      "author": "JON DUCKETT",
+      "cetogory" : "JavaScript"
+    },
+    {
+      "id": 18,
+      "Name": "JavaScript : the Good Part ",
+      "image": "JS2",
+      "author": "O. REILLY ",
+      "cetogory" : "JavaScript"
+    },
+    {
+      "id": 19,
+      "Name": "JavaScript the Definitive Guide",
+      "image": "JS3",
+      "author": "David Flamagan ",
+      "cetogory" : "JavaScript"
+    },
+    {
+      "id": 20 ,
+      "Name": " Learning JavaScript ",
+      "image": "JS4",
+      "author": "Ethan Brown",
+      "cetogory" : "JavaScript"
+    },
+    {
+      "id": 21,
+      "Name": "JavaScript & Jquery the missing manual ",
+      "image": "JS5",
+      "author": "David Sawyer McFarland",
+      "cetogory" : "JavaScript"
+    },
+    {
+      "id": 22,
+      "Name": "the little JAVASCRIPT BOOK ",
+      "image": "JS6",
+      "author": "",
+      "cetogory" : "JavaScript"
+    },
+    {
+      "id": 23,
+      "Name": "Clean Code In JavaScript",
+      "image": "JS7",
+      "author": "James Padolsey ",
+      "cetogory" : "JavaScript"
+    },
+    {
+      "id": 24,
+      "Name": " JAVASCRIPT Programming basic ",
+      "image": "JS8",
+      "author": " NATHAN CLARK ",
+      "cetogory" : "JavaScript"
     }
+    
   ]
 
 }
