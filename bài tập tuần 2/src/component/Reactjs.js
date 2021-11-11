@@ -34,7 +34,8 @@ class Reactjs extends React.Component{
             return(
                     <div className="box__cetogory--item">
                         <Container name={book.Name} img={book.image} 
-                        author={book.author ? "By " + book.author : ""}  />
+                        author={book.author ? "By " + book.author : ""} 
+                        id = {book.id} />
                     </div> 
             );
         });

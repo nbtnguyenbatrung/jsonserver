@@ -1,0 +1,19 @@
+.Detail{
+    margin: 0 auto;
+    width: 70%;
+    display: flex;
+    margin-top: 3rem;
+}
+
+.Detail .Detail__img {
+    width: 35%;
+    margin-right: 2rem;
+}
+.Detail .Detail__img img {
+    height: 60%;
+}
+
+.Detail .Detail__information .Detail__information--content{
+    margin-top: 1rem;
+}
+

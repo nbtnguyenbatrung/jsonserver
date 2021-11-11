@@ -7,7 +7,7 @@ class home extends React.Component{
         return(
             <div className="nav">
                 <h3>
-                    <Link to="/HTML"> <i class="fas fa-book-open" /> </Link>
+                    <Link to="/"> <i class="fas fa-book-open" /> </Link>
                 </h3>
                 
                 <ul className="nav__link">

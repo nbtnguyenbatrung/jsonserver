@@ -15,7 +15,7 @@ function Container (props){
             </div>
             <div className="box__button">
                 <button > 
-                <Link to={"/"+ props.id }><p> DETAIL </p> </Link> 
+                <Link to={"/Book/"+ props.id }><p> DETAIL </p> </Link> 
                 </button>
             </div>
         </div>
