@@ -3,7 +3,7 @@ import '../css/container.css';
 import {Link} from 'react-router-dom';
 function Container (props){
     return(
-        <div className = "box">
+        <div className = "box" >
             <div className="box__img">
                 <img src={require(`../image/${props.img}`).default} alt="HTML" />
             </div>

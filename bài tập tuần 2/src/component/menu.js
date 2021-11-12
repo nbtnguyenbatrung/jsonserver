@@ -1,11 +1,8 @@
 import React from "react";
-import {NavLink} from 'react-router-dom';
+import {Link} from 'react-router-dom';
 function Menu(props){
     return (
-        <NavLink  activeStyle={{
-            backgroundColor : 'white',
-            color : 'red'
-        }}  to={"/" + props.name }><p> {props.name} </p> </NavLink >
+        <Link to={"/" + props.name }><p> {props.name} </p> </Link >
     )
 }
 

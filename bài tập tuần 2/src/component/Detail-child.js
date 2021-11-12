@@ -1,12 +1,25 @@
-import React from "react";
+import axios from "axios";
+import React,{useState,useEffect} from "react";
 import { useParams } from "react-router";
 import Detail from "./Detail";
 
-function Detailchild(){
+const  Detailchild =()=>{
+
+    const [books,setbooks] = useState([]);
     let {id} = useParams();
+
+    useEffect (()=>{
+        const fetch = async ()=>{
+            const res =await axios.get('http://localhost:3000/books?id='+id);
+            setbooks(res.data);
+        }
+
+        fetch();
+    },[]);
+
     return(
-        <Detail id = {id}/>
+        <Detail books={books}/>
     );
-}
+};
 
 export default Detailchild ;
