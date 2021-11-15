@@ -9,7 +9,8 @@ class Reactjs extends React.Component{
         super(props);
         this.state = {
           book : [],
-          showbook : []
+          showbook : [],
+          currenpage : 1
         }
       }
 
@@ -36,7 +37,7 @@ class Reactjs extends React.Component{
         }
         return arr.map((index)=>{
           return (
-              <button key={index} onClick={()=>{
+              <button className={index === this.state.currenpage ? "page__currenpage" : ""} key={index} onClick={()=>{
                   this.nextpage(index)
               }}>{index}</button>
           )
@@ -46,14 +47,15 @@ class Reactjs extends React.Component{
       nextpage = (number)=>{
         let end = number*3;
         this.setState({
-          showbook : this.state.book.slice(end-3 , end)
+          showbook : this.state.book.slice(end-3 , end),
+          currenpage : number
         })
       }
 
     render() {  
         var totalpage1 = Math.floor(this.state.book.length/3 )
         var  totalpage = totalpage1*3 < this.state.book.length ? totalpage1 + 1 : totalpage1
-        const bookget = this.state.book.map((book,index) => {
+        const bookget = this.state.showbook.map((book,index) => {
             return(
                     <div className="box__cetogory--item" key={book.id}>
                         <Container name={book.Name} img={book.image} 
