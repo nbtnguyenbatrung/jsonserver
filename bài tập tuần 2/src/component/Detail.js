@@ -4,6 +4,7 @@ import '../css/Detail.css'
 class Detail extends React.Component{
     render(){
         const books = this.props.books;
+        console.log(books)
         const book = books.map((book,Index)=>{
             return(
                 <div className="Detail"> 
@@ -13,6 +14,7 @@ class Detail extends React.Component{
                 <div className="Detail__information">
                     <div className = "Detail__information--name">
                         <h1>{book.Name}</h1> 
+                        
                     </div>
                     <div className="Detail__information--author">
                         <span> {book.author} </span>
